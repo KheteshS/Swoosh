@@ -1,6 +1,5 @@
-package com.example.swoosh
+package com.example.swoosh.Controller
 
-import android.nfc.Tag
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
